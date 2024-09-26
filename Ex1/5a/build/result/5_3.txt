@@ -1,0 +1,9 @@
+Radius:  1 - White pixels:   0
+Radius:  5 - White pixels:  22
+Radius: 10 - White pixels:  84
+Radius: 15 - White pixels: 137
+Radius: 20 - White pixels: 211
+Radius: 25 - White pixels: 306
+Radius: 30 - White pixels: 464
+Radius: 35 - White pixels: 614
+Radius: 40 - White pixels: 738

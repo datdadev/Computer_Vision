@@ -1,0 +1,40 @@
+The number of white pixels in Image 1 is: 
+Radius 1:	249
+Radius 5:	229
+Radius 10:	186
+Radius 15:	147
+Radius 20:	130
+Radius 25:	114
+Radius 30:	88
+Radius 35:	41
+Radius 40:	23
+The number of white pixels in Image 2 is: 
+Radius 1:	248
+Radius 5:	224
+Radius 10:	189
+Radius 15:	155
+Radius 20:	130
+Radius 25:	119
+Radius 30:	92
+Radius 35:	48
+Radius 40:	26
+The number of white pixels in Image 3 is: 
+Radius 1:	248
+Radius 5:	232
+Radius 10:	196
+Radius 15:	151
+Radius 20:	123
+Radius 25:	102
+Radius 30:	78
+Radius 35:	53
+Radius 40:	32
+The number of white pixels in Image 4 is: 
+Radius 1:	248
+Radius 5:	224
+Radius 10:	190
+Radius 15:	147
+Radius 20:	124
+Radius 25:	112
+Radius 30:	85
+Radius 35:	46
+Radius 40:	20

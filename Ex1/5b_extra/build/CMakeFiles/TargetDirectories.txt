@@ -1,0 +1,3 @@
+/Volumes/macDATA/ltd/code/opencv/5b/build/CMakeFiles/MyProject.dir
+/Volumes/macDATA/ltd/code/opencv/5b/build/CMakeFiles/edit_cache.dir
+/Volumes/macDATA/ltd/code/opencv/5b/build/CMakeFiles/rebuild_cache.dir
