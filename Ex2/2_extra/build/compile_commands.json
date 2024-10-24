@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Volumes/macDATA/ltd/code/opencv/Ex2/2_extra/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /usr/local/Cellar/opencv/4.10.0_11/include/opencv4 -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/MyProject.dir/main.cpp.o -c /Volumes/macDATA/ltd/code/opencv/Ex2/2_extra/main.cpp",
+  "file": "/Volumes/macDATA/ltd/code/opencv/Ex2/2_extra/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.o"
+}
+]

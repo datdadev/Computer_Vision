@@ -1,0 +1,3 @@
+/Volumes/macDATA/ltd/code/opencv/Ex2/canny/build/CMakeFiles/MyProject.dir
+/Volumes/macDATA/ltd/code/opencv/Ex2/canny/build/CMakeFiles/edit_cache.dir
+/Volumes/macDATA/ltd/code/opencv/Ex2/canny/build/CMakeFiles/rebuild_cache.dir
