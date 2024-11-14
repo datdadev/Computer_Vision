@@ -1,0 +1,192 @@
+\multirow{5}{*}[0pt]{$ (4,10) $} & $-180$ &  $6$ &  $10$ &  1 &  $7$ &  $10$ &  1 \\\cline{2-17}
+& $-90$ &  $4$ &  $12$ &  1 &  $4$ &  $13$ &  1 \\\cline{2-17}
+& $0$ &  $2$ &  $10$ &  1 &  $1$ &  $10$ &  1 \\\cline{2-17}
+& $90$ &  $4$ &  $8$ &  1 &  $4$ &  $7$ &  1 \\\cline{2-17}
+& $180$ &  $6$ &  $10$ &  2 &  $7$ &  $10$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (5,10) $} & $-180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 3 &  $8$ &  $10$ &  1 \\\cline{2-17}
+& $-90$ &  $5$ &  $12$ &  1 &  $5$ &  $13$ &  1 \\\cline{2-17}
+& $0$ &  $3$ &  $10$ &  1 &  $2$ &  $10$ &  2 \\\cline{2-17}
+& $90$ &  $5$ &  $8$ &  1 &  $5$ &  $7$ &  1 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 4 &  $8$ &  $10$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (6,10) $} & $-180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 3 &  $9$ &  $10$ &  1 \\\cline{2-17}
+& $-90$ &  $6$ &  $12$ &  1 &  $6$ &  $13$ &  1 \\\cline{2-17}
+& $0$ &  $4$ &  $10$ &  1 &  $3$ &  $10$ &  2 \\\cline{2-17}
+& $90$ &  $6$ &  $8$ &  1 &  $6$ &  $7$ &  1 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 4 &  $9$ &  $10$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (7,10) $} & $-180$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 3 &  $10$ &  $10$ &  1 \\\cline{2-17}
+& $-90$ &  $7$ &  $12$ &  1 &  $7$ &  $13$ &  1 \\\cline{2-17}
+& $0$ &  $5$ &  $10$ &  1 &  $4$ &  $10$ &  2 \\\cline{2-17}
+& $90$ &  $7$ &  $8$ &  1 &  $7$ &  $7$ &  1 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 4 &  $10$ &  $10$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (8,10) $} & $-180$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 3 &  $11$ &  $10$ &  1 \\\cline{2-17}
+& $-90$ &  $8$ &  $12$ &  1 &  $8$ &  $13$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 3 &  $5$ &  $10$ &  2 \\\cline{2-17}
+& $90$ &  $8$ &  $8$ &  1 &  $8$ &  $7$ &  1 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 4 &  $11$ &  $10$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (9,10) $} & $-180$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 3 &  $12$ &  $10$ &  1 \\\cline{2-17}
+& $-90$ &  $9$ &  $12$ &  1 &  $9$ &  $13$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $90$ &  $9$ &  $8$ &  1 &  $9$ &  $7$ &  1 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 4 &  $12$ &  $10$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (5,11) $} & $-180$ &  $7$ &  $11$ &  1 &  $8$ &  $11$ &  1 \\\cline{2-17}
+& $-90$ &  $5$ &  $13$ &  2 &  $5$ &  $14$ &  1 \\\cline{2-17}
+& $0$ &  $3$ &  $11$ &  1 &  $2$ &  $11$ &  1 \\\cline{2-17}
+& $90$ &  $5$ &  $9$ &  1 &  $5$ &  $8$ &  2 \\\cline{2-17}
+& $180$ &  $7$ &  $11$ &  2 &  $8$ &  $11$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (6,11) $} & $-180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 3 &  $9$ &  $11$ &  1 \\\cline{2-17}
+& $-90$ &  $6$ &  $13$ &  2 &  $6$ &  $14$ &  1 \\\cline{2-17}
+& $0$ &  $4$ &  $11$ &  1 &  $3$ &  $11$ &  2 \\\cline{2-17}
+& $90$ &  $6$ &  $9$ &  1 &  $6$ &  $8$ &  2 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 4 &  $9$ &  $11$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (9,11) $} & $-180$ &  $11$ &  $11$ &  1 &  $12$ &  $11$ &  1 \\\cline{2-17}
+& $-90$ &  $9$ &  $13$ &  2 &  $9$ &  $14$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 3 &  $6$ &  $11$ &  1 \\\cline{2-17}
+& $90$ &  $9$ &  $9$ &  1 &  $9$ &  $8$ &  2 \\\cline{2-17}
+& $180$ &  $11$ &  $11$ &  2 &  $12$ &  $11$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (5,12) $} & $-180$ &  $7$ &  $12$ &  2 &  $8$ &  $12$ &  2 \\\cline{2-17}
+& $-90$ &  $5$ &  $14$ &  2 &  $5$ &  $15$ &  1 \\\cline{2-17}
+& $0$ &  $3$ &  $12$ &  1 &  $2$ &  $12$ &  1 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 3 &  $5$ &  $9$ &  2 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (6,12) $} & $-180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 4 &  $9$ &  $12$ &  2 \\\cline{2-17}
+& $-90$ &  $6$ &  $14$ &  2 &  $6$ &  $15$ &  1 \\\cline{2-17}
+& $0$ &  $4$ &  $12$ &  2 &  $3$ &  $12$ &  2 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 5 &  $6$ &  $9$ &  2 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (9,12) $} & $-180$ &  $11$ &  $12$ &  1 &  $12$ &  $12$ &  1 \\\cline{2-17}
+& $-90$ &  $9$ &  $14$ &  2 &  $9$ &  $15$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 4 &  $6$ &  $12$ &  2 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 5 &  $9$ &  $9$ &  2 \\\cline{2-17}
+& $180$ &  $11$ &  $12$ &  2 &  $12$ &  $12$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (5,13) $} & $-180$ &  $7$ &  $13$ &  2 &  $8$ &  $13$ &  2 \\\cline{2-17}
+& $-90$ &  $5$ &  $15$ &  2 &  $5$ &  $16$ &  1 \\\cline{2-17}
+& $0$ &  $3$ &  $13$ &  1 &  $2$ &  $13$ &  1 \\\cline{2-17}
+& $90$ &  $5$ &  $11$ &  1 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (6,13) $} & $-180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $-90$ &  $6$ &  $15$ &  2 &  $6$ &  $16$ &  1 \\\cline{2-17}
+& $0$ &  $4$ &  $13$ &  2 &  $3$ &  $13$ &  2 \\\cline{2-17}
+& $90$ &  $6$ &  $11$ &  2 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 6 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (7,13) $} & $-180$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 5 &  $10$ &  $13$ &  1 \\\cline{2-17}
+& $-90$ &  $7$ &  $15$ &  1 &  $7$ &  $16$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $4$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 4 & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 6 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 6 &  $10$ &  $13$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (8,13) $} & $-180$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 &  $11$ &  $13$ &  1 \\\cline{2-17}
+& $-90$ &  $8$ &  $15$ &  1 &  $8$ &  $16$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 5 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 &  $11$ &  $13$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (9,13) $} & $-180$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 &  $12$ &  $13$ &  1 \\\cline{2-17}
+& $-90$ &  $9$ &  $15$ &  2 &  $9$ &  $16$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} 6 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 &  $12$ &  $13$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (2,14) $} & $-180$ &  $4$ &  $14$ &  1 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $-90$ &  $2$ &  $16$ &  1 &  $2$ &  $17$ &  1 \\\cline{2-17}
+& $0$ &  $0$ &  $14$ &  1 &  $-1$ &  $14$ &  1 \\\cline{2-17}
+& $90$ &  $2$ &  $12$ &  2 &  $2$ &  $11$ &  2 \\\cline{2-17}
+& $180$ &  $4$ &  $14$ &  2 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (4,14) $} & $-180$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 &  $7$ &  $14$ &  1 \\\cline{2-17}
+& $-90$ &  $4$ &  $16$ &  1 &  $4$ &  $17$ &  1 \\\cline{2-17}
+& $0$ &  $2$ &  $14$ &  1 &  $1$ &  $14$ &  1 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $4$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 3 &  $4$ &  $11$ &  2 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 4 &  $7$ &  $14$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (5,14) $} & $-180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 &  $8$ &  $14$ &  1 \\\cline{2-17}
+& $-90$ &  $5$ &  $16$ &  2 &  $5$ &  $17$ &  1 \\\cline{2-17}
+& $0$ &  $3$ &  $14$ &  1 &  $2$ &  $14$ &  2 \\\cline{2-17}
+& $90$ &  $5$ &  $12$ &  2 &  $5$ &  $11$ &  2 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 4 &  $8$ &  $14$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (6,14) $} & $-180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $-90$ &  $6$ &  $16$ &  2 &  $6$ &  $17$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $4$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 &  $3$ &  $14$ &  2 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 4 & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (7,14) $} & $-180$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 5 &  $10$ &  $14$ &  1 \\\cline{2-17}
+& $-90$ &  $7$ &  $16$ &  2 &  $7$ &  $17$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $4$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 5 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 6 &  $10$ &  $14$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (8,14) $} & $-180$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 &  $11$ &  $14$ &  1 \\\cline{2-17}
+& $-90$ &  $8$ &  $16$ &  2 &  $8$ &  $17$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 6 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 6 & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 6 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $10$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 4 &  $11$ &  $14$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (9,14) $} & $-180$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 &  $12$ &  $14$ &  1 \\\cline{2-17}
+& $-90$ &  $9$ &  $16$ &  2 &  $9$ &  $17$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 6 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 4 & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $11$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 4 &  $12$ &  $14$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (2,15) $} & $-180$ &  $4$ &  $15$ &  1 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $-90$ &  $2$ &  $17$ &  2 &  $2$ &  $18$ &  1 \\\cline{2-17}
+& $0$ &  $0$ &  $15$ &  1 &  $-1$ &  $15$ &  1 \\\cline{2-17}
+& $90$ &  $2$ &  $13$ &  2 & \cellcolor{TransparentYellow} $2$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $180$ &  $4$ &  $15$ &  2 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (3,15) $} & $-180$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $-90$ &  $3$ &  $17$ &  1 &  $3$ &  $18$ &  1 \\\cline{2-17}
+& $0$ &  $1$ &  $15$ &  1 &  $0$ &  $15$ &  2 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $3$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $3$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 6 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (5,15) $} & $-180$ &  $7$ &  $15$ &  2 &  $8$ &  $15$ &  2 \\\cline{2-17}
+& $-90$ &  $5$ &  $17$ &  2 &  $5$ &  $18$ &  1 \\\cline{2-17}
+& $0$ &  $3$ &  $15$ &  1 &  $2$ &  $15$ &  1 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (9,15) $} & $-180$ &  $11$ &  $15$ &  1 &  $12$ &  $15$ &  1 \\\cline{2-17}
+& $-90$ &  $9$ &  $17$ &  2 &  $9$ &  $18$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 4 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 5 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 7 & \cellcolor{TransparentYellow} $9$ & \cellcolor{TransparentYellow} $12$ & \cellcolor{TransparentYellow} 5 \\\cline{2-17}
+& $180$ &  $11$ &  $15$ &  2 &  $12$ &  $15$ &  2 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (3,16) $} & $-180$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $16$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $16$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $-90$ &  $3$ &  $18$ &  2 &  $3$ &  $19$ &  1 \\\cline{2-17}
+& $0$ &  $1$ &  $16$ &  1 &  $0$ &  $16$ &  1 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $3$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $3$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $16$ & \cellcolor{TransparentYellow} 4 & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $16$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (4,16) $} & $-180$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $16$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $16$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+& $-90$ &  $4$ &  $18$ &  1 &  $4$ &  $19$ &  1 \\\cline{2-17}
+& $0$ &  $2$ &  $16$ &  2 &  $1$ &  $16$ &  2 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $4$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $4$ & \cellcolor{TransparentYellow} $13$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $16$ & \cellcolor{TransparentYellow} 6 & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $16$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (4,17) $} & $-180$ &  $6$ &  $17$ &  2 &  $7$ &  $17$ &  2 \\\cline{2-17}
+& $-90$ &  $4$ &  $19$ &  2 &  $4$ &  $20$ &  1 \\\cline{2-17}
+& $0$ & \cellcolor{TransparentYellow} $2$ & \cellcolor{TransparentYellow} $17$ & \cellcolor{TransparentYellow} 3 &  $1$ &  $17$ &  1 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $4$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $4$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 6 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $6$ & \cellcolor{TransparentYellow} $17$ & \cellcolor{TransparentYellow} 3 & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $17$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+\hline
+\multirow{5}{*}[0pt]{$ (5,17) $} & $-180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $17$ & \cellcolor{TransparentYellow} 4 &  $8$ &  $17$ &  2 \\\cline{2-17}
+& $-90$ &  $5$ &  $19$ &  1 &  $5$ &  $20$ &  1 \\\cline{2-17}
+& $0$ &  $3$ &  $17$ &  2 & \cellcolor{TransparentYellow} $2$ & \cellcolor{TransparentYellow} $17$ & \cellcolor{TransparentYellow} 4 \\\cline{2-17}
+& $90$ & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $15$ & \cellcolor{TransparentYellow} 7 & \cellcolor{TransparentYellow} $5$ & \cellcolor{TransparentYellow} $14$ & \cellcolor{TransparentYellow} 7 \\\cline{2-17}
+& $180$ & \cellcolor{TransparentYellow} $7$ & \cellcolor{TransparentYellow} $17$ & \cellcolor{TransparentYellow} 5 & \cellcolor{TransparentYellow} $8$ & \cellcolor{TransparentYellow} $17$ & \cellcolor{TransparentYellow} 3 \\\cline{2-17}
+\hline
